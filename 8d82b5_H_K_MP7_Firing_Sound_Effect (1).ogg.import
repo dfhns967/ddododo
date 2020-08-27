@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/8d82b5_H_K_MP7_Firing_Sound_Effect (1).ogg-e44731524fd4776738cc8ade6569960f.oggstr"
+
+[deps]
+
+source_file="res://8d82b5_H_K_MP7_Firing_Sound_Effect (1).ogg"
+dest_files=[ "res://.import/8d82b5_H_K_MP7_Firing_Sound_Effect (1).ogg-e44731524fd4776738cc8ade6569960f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
